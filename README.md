@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hello everyone ! Welcome to the MSD. I am Arpan, student in the southern cross university.
